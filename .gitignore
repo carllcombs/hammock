@@ -1,0 +1,14 @@
+# Project
+public
+
+# Bower
+node_modules
+src/bower_components
+.bowerrc
+.jshintignore
+.jshintrc
+
+# Sublime
+sftp-config.json
+*.sublime-project
+*.sublime-workspace
