@@ -1,0 +1,31 @@
+{
+  "name": "hammock",
+  "version": "0.0.1",
+  "description": "Front end framework built on AngularJs",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "^3.6.0",
+    "gulp-autoprefixer": "0.0.7",
+    "gulp-minify-css": "^0.3.1",
+    "gulp-sass": "^0.7.1",
+    "gulp-uglify": "^0.2.1",
+    "gulp-jshint": "^1.5.3",
+    "gulp-svgmin": "^0.4.5",
+    "gulp-svg2png": "^0.2.3",
+    "gulp-imagemin": "^0.2.0",
+    "gulp-rename": "^1.2.0",
+    "gulp-notify": "^1.2.5",
+    "gulp-concat": "^2.2.0",
+    "gulp-base64": "0.0.3",
+    "gulp-clean": "^0.2.4",
+    "gulp-cache": "^0.1.3",
+    "gulp-ignore": "^1.0.0",
+    "gulp-order": "^1.0.6"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Carl Combs",
+  "license": "BSD-2-Clause"
+}
